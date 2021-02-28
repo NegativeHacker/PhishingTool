@@ -4,6 +4,8 @@ I am in no way responsible for your actions, this script is for educational purp
 
 ❗❗❗ To use the phishing tool you need to have node.js and install the npm ngrok module ❗❗❗
 
+At the moment there is only one phishing tool (the one of microsoft ) else may arrive soon
+
 1️⃣ Start serveur.js with your Node.js IDE ▶️
 
 2️⃣ Open the terminal and share the link display to the victim 💻
