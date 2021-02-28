@@ -1,6 +1,7 @@
 # PhishingTool
 
-👇👇👇
+                              👇👇👇
+
 I am in no way responsible for your actions, this script is for educational purposes
 
 ❗❗❗ To use the phishing tool you need to have node.js and install the npm ngrok module ❗❗❗
