@@ -14,4 +14,4 @@ At the moment there is only one phishing tool (the one of microsoft ) else may a
 
 4️⃣ Enjoy 😉
 
-if you want to see how the tool works I made a video --> https://www.youtube.com/channel/UCwNnuOCSWbbi6FWPEAig4hA
+if you want to see how the tool works I made a video --> https://www.youtube.com/watch?v=e941nnf24xg
